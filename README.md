@@ -1,5 +1,7 @@
 Real Estate Predictive Analytics & Valuation Dashboard
+
 End-to-End ML Pipeline & Business Intelligence Solution
+
 Questo repository presenta un sistema integrato per la valutazione automatizzata degli immobili basato sul dataset storico di Boston. Il progetto non è una semplice analisi statistica, ma una soluzione di Business Intelligence che trasforma modelli predittivi complessi in strumenti decisionali chiari e azionabili.
 
 🎯 Visione del Progetto
