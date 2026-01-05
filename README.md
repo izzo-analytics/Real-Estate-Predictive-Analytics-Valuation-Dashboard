@@ -43,3 +43,7 @@ Di seguito, un'anteprima della soluzione integrata:
 1. Eseguire lo script Python per generare i file `Housing_Predictions_Boston_Anonymous.xlsx` e `Modello_Validazione_Performance.xlsx`.
 2. Aprire il file Power BI.
 3. Se necessario, aggiornare il percorso dei dati in **Power Query** (*Trasforma Dati -> Impostazioni Origine Dati*) per puntare alla cartella locale.
+
+---
+**Formazione:** Progetto certificato da **ProfessionAI** e **Alteredu**.
+**Autore:** [Massimiliano Izzo](https://linkedin.com/in/massimilianoizzo) – BI & Data Storytelling Specialist
